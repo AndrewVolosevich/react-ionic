@@ -12,4 +12,4 @@ ReactDOM.render(
 );
 
 serviceWorkerRegistration.register();
-reportWebVitals(console.log);
+// reportWebVitals(console.log);
